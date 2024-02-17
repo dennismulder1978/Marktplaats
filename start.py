@@ -1,6 +1,6 @@
 from marktplaats import SearchQuery
 
-search = SearchQuery("drumstel", # Search query
+search = SearchQuery("Paiste", # Search query
                      zip_code="1341DC", # Zip code to base distance from
                      distance=0, # Max distance (meters) from the zip code for listings
                      price_from=0, # Lowest price to search for
